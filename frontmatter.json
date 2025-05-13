@@ -45,12 +45,12 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "posts",
-      "path": "[[workspace]]/_posts"
+      "path": "[[workspace]]/_posts",
       "previewPath": "'posts'"
     },
     {
       "title": "staff_members",
-      "path": "[[workspace]]/_staff_members"
+      "path": "[[workspace]]/_staff_members",
       "previewPath": "'staff_members'"
     }
   ],
