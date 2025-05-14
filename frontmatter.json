@@ -54,5 +54,6 @@
       "previewPath": "staff_members"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.dashboard.openOnStart": true
 }
