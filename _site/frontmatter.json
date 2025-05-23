@@ -37,6 +37,37 @@
           "type": "string"
         }
       ]
+    },
+    {
+      "name": "staff",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "name",
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "title": "position",
+          "name": "position",
+          "type": "string"
+        },
+        {
+          "title": "image_path",
+          "name": "image_path",
+          "type": "image"
+        },
+        {
+          "title": "twitter_username",
+          "name": "twitter_username",
+          "type": "string"
+        },
+        {
+          "title": "blurb",
+          "name": "blurb",
+          "type": "string"
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
@@ -54,5 +85,6 @@
       "previewPath": "staff_members"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.dashboard.openOnStart": true
 }
